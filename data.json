@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Saurabh Gupta",
+    "age": 26,
+    "role": "Corporate Trainer and part time gamer"
+  },
+  {
+    "id": 2,
+    "name": "Akkhilesh R P",
+    "age": 19,
+    "role": "Student, MERN Stack Developer"
+  },
+  {
+    "id": 3,
+    "name": "Mahendra Singh Dhoni",
+    "age": 42,
+    "role": "Ex: Indian Cricket team captain"
+  },
+  {
+    "id": 4,
+    "name": "Pat Cummins",
+    "age": 35,
+    "role": "Australian Cricket Team captain"
+  },
+  {
+    "id": 5,
+    "name": "Suresh Raina",
+    "age": 39,
+    "role": "Middle order batsman"
+  },
+  {
+    "id": 6,
+    "name": "Virat Kolhi",
+    "age": 32,
+    "role": "Covered drive specialist"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Sharma",
+    "age": 26,
+    "role": "Opener and Indian Team captian"
+  },
+  { "id": 8, "name": "Subman Gill", "age": 28, "role": "Opener" },
+  { "id": 9, "name": "Jadeja", "age": 32, "role": "Finisher" },
+  { "id": 10, "name": "Jasprit Bumrah", "age": 29, "role": "Death Bowler" }
+]
