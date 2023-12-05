@@ -5,6 +5,11 @@ const url = require("url");
 http.createServer((req, res) => {
     const userData = fs.readFileSync("./data.json", "utf-8");
     const urlData = url.parse(req.url, true);
+    res.setHeader("Access-Control-Allow-Origin","*");
+    res.setHeader("Access-Control-Allow-Headers","*");
+
+    // Internally pre-flight request is sent 
+    if(req.method === "OPTIONS") res.end();
 
     // GET Request
     if(req.method === "GET" && urlData.pathname === "/users" && urlData.query.id === undefined) res.end(userData);

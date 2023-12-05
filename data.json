@@ -43,5 +43,6 @@
   },
   { "id": 8, "name": "Subman Gill", "age": 28, "role": "Opener" },
   { "id": 9, "name": "Jadeja", "age": 32, "role": "Finisher" },
-  { "id": 10, "name": "Jasprit Bumrah", "age": 29, "role": "Death Bowler" }
+  { "id": 10, "name": "Jasprit Bumrah", "age": 29, "role": "Death Bowler" },
+  { "id": 11, "name": "Shami", "age": 35, "role": "Bowler" }
 ]
